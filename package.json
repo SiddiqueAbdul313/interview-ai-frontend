@@ -1,0 +1,16 @@
+{
+  "name": "ytbackend",
+  "version": "1.0.0",
+  "description": "YT backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "yt"
+  ],
+  "author": "Zuheb Siddiqui",
+  "license": "ISC"
+}
